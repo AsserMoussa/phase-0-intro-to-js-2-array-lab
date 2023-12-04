@@ -1,5 +1,5 @@
 require ( './helpers.js' );
-
+//const cats = [3];
 describe('index.js', function () {
   describe('cats', function () {
     it('is assigned an initial value of ["Milo", "Otis", "Garfield"]', function () {
